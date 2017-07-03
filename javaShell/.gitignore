@@ -7,4 +7,5 @@
 .class
 .DS_Store
 target/
+/webContent/*
 /shell/*
